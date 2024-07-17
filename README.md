@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venkata Siva Reddy T</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<iframe src="https://giphy.com/embed/rdxcrFrlUihGjRLVDN" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-coffee-latte-cappuccino-rdxcrFrlUihGjRLVDN">via GIPHY</a></p>
+
 <div align="center">
     <img alt="coder" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
+     <img alt="coder" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNlc3Z4bnRmdjZuaW9mYjJtOXl6bGVqOG10dmpkMHVhbDU0N3RkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rdxcrFrlUihGjRLVDN/giphy.gif">
 </div>
 
 
