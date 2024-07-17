@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venkata Siva Reddy T</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="center" alt="coder" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
+<div align="center">
+  <img alt="coder" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivareddy0930&label=Profile%20views&color=0e75b6&style=flat" alt="sivareddy0930" /> </p>
 
