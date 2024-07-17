@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkata Siva Reddy T</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <div align="center">
-  <marquee>
     <img alt="coder" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
-  </marquee>
 </div>
 
 
