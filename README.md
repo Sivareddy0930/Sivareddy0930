@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java developer from India</h3>
 
 <div align="center">
-    <img alt="coder" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
+    <img alt="coder" width="250" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
 </div>
 
 
