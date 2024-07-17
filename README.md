@@ -3,8 +3,10 @@
 
 <div align="center">
     <img alt="coder" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
-     <img alt="coder" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNlc3Z4bnRmdjZuaW9mYjJtOXl6bGVqOG10dmpkMHVhbDU0N3RkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rdxcrFrlUihGjRLVDN/giphy.gif">
-</div>
+            <img style="border-radius:50px;" width="200px" 
+       src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNlc3Z4bnRmdjZuaW9mYjJtOXl6bGVqOG10dmpkMHVhbDU0N3RkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rdxcrFrlUihGjRLVDN/giphy.gif" alt="">
+
+     </div>
 
 
 
